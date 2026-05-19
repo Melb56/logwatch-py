@@ -1,0 +1,6 @@
+May 18 09:10:01 debian-lab CRON[1234]: pam_unix(cron:session): session opened for user root
+May 18 09:14:32 debian-lab sshd[2341]: Failed password for root from 192.168.1.105 port 54321 ssh2
+May 18 09:14:35 debian-lab sshd[2342]: Failed password for invalid user admin from 10.0.0.1 port 22 ssh2
+May 18 09:15:01 debian-lab sshd[2343]: Accepted publickey for alice from 192.168.1.10 port 22 ssh2
+May 18 09:20:11 debian-lab sudo[2400]: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/apt
+May 18 09:21:00 debian-lab sshd[2344]: Failed password for root from 10.10.10.5 port 12345 ssh2
