@@ -17,9 +17,11 @@ python logwatch.py --file /var/log/auth.log
 ```
 
 ## Structure
+```
 ├── logwatch.py     # point d'entrée CLI
 ├── logentry.py     # dataclass LogEntry
 └── tests/
+```
 
 ## Objectif
 Projet pratique pour consolider Linux, parsing de logs et logique SOC
